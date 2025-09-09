@@ -1,7 +1,7 @@
 # timed-steps-crawler
 
 
-A small Java app that:
+A Java app that:
 
 * Starts from a URL and crawls links up to a max number of steps
 * Extracts title/headings/body text and assigns top-K keywords per page
